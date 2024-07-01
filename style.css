@@ -11,12 +11,14 @@ h1{
 
 body{
     margin:0;
-    font-family:"Noto Sans", sans-serif
+    font-family:"Noto Sans", sans-serif;
+    background-color: whitesmoke
 }
 
 .img-container{
     margin:10px 25%;
-    
+    box-sizing: border-box;
+    height: 10px;;
 }
 
 .img-container img{
